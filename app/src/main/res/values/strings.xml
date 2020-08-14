@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Info</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="logout">LogOut</string>
+    <string name="slogan">Committed To Excellence In Education</string>
+    <string name="logo">School Management</string>
+    <string name="Issue">Enter your Issue Below</string>
+</resources>
