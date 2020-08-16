@@ -11,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".IssueReview"></activity>
+        <activity android:name=".NewStudentInfo"/>
+        <activity android:name=".NewStudentsList"/>
+        <activity android:name=".IssueReview" />
         <activity android:name=".Admin" />
         <activity android:name=".LoginPage" />
         <activity android:name=".MainActivity" />
